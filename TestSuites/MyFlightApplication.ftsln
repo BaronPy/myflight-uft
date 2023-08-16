@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "MyFlight", "MyFlight\Test.tsp", "72CB9386-386F-4374-BCEE-D000D6345D4D"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\OGYAQA\Documents\UFT One\MyFlight\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		72CB9386-386F-4374-BCEE-D000D6345D4D.Debug|Any CPU.Build.0 = Debug|Any CPU
+		72CB9386-386F-4374-BCEE-D000D6345D4D.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		72CB9386-386F-4374-BCEE-D000D6345D4D.Release|Any CPU.Build.0 = Release|Any CPU
+		72CB9386-386F-4374-BCEE-D000D6345D4D.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
